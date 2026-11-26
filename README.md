@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**luisbuchmann/Luisbuchmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oi! 👋
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS),
+interessado em desenvolvimento de software e tecnologia.
+
+Atualmente estou desenvolvendo minhas habilidades em programação,
+lógica, desenvolvimento web. 
+futuramente quero ingressar na área de cibersegurança 
+
+## Tecnologias e ferramentas
+
+- HTML5
+- PHP
+- Portugol
+- Git
+- GitHub
+
+## Projetos
+
+
+## Estudos
+
+Este GitHub reúne meus estudos, projetos pessoais, exercícios
+acadêmicos e experiências práticas durante minha jornada
+em Análise e Desenvolvimento de Sistemas.
+
+---
+
+*Em constante aprendizado e desenvolvimento.*
